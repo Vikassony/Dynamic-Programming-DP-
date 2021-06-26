@@ -1,4 +1,4 @@
-//Multiple transaction is allowed
+//Infinite transaction is allowed
 
 import java.util.Scanner;
 
